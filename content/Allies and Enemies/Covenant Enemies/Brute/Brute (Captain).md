@@ -1,0 +1,23 @@
+### Brute (Captain)
+
+|                                                                                                                                                                   |                                                                                                                                    |                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core**                                                                                                                                                          | **Offensive**                                                                                                                      | **Support**                                                                                                                                                                                                   |
+| **Race:** Jiralhanae (Brute)<br>**Classification:** Captain<br>**Health:** 90<br>**Shields:** 40<br>**Dodge Bonus:** +5<br>**Size:** Medium<br>**Speed:** 30 feet | **Melee Dodge DC:** 65<br>**Melee Damage:** 32 (7d8) Kinetic<br>**Grenades:** 3 (Incendiary)<br>**Available Weaponry:** Brute Shot | **Superiorities (+20):** Tactics, Firepower, Detection<br>**Expertises (+40):** Fortitude, Lifting<br>**Weapon Superiorities:** Brute Shot<br>**Weapon Expertises:** N/A<br>**Effect Immunities:** Frightened |
+| **Innate Skills**                                                                                                                                                 | **Passive Skills**                                                                                                                 | **Operational Skills**                                                                                                                                                                                        |
+| _Charge_<br>_Grab_<br>_Frenzy_                                                                                                                                    | _Alpha_<br>_Vicious_                                                                                                               | _Brutal Resilience_<br>_Resist_                                                                                                                                                                               |
+
+#### Skills
+_(Innate)_ **Charge:** As a Secondary and Tertiary Operations the Brute (Captain) can move half of their movement speed (rounded down) and gain an additional +15 Dodge bonus against Chance Attacks.
+
+_(Innate)_ **Grab:** If the Brute (Captain) hits a melee attack, they may immediately take the Grapple combat maneuver, expending only a Secondary and Tertiary Operation.
+
+_(Innate)_ **Frenzy:** When the Brute (Captain) reaches 30 health or lower, they take only half damage (rounded down) from Kinetic, Hardlight, and Plasma damage, and their melee damage increases by +9 (2d8) damage die.
+
+_(Passive)_ **Alpha:** Whenever the Brute (Captain) hits an attack they choose 1 ally and that ally deals +1 additional damage die on their next attack.
+
+_(Passive)_ **Vicious:** If the Brute (Captain) deals more than 60 damage in a turn to a single target, that creature is exposed to the Wounded effect until they regain health in any way or complete a downtime.
+
+_(Operational)_ **Brutal Resilience:** Once, as a Primary, Secondary, and Tertiary Operation, the Brute (Captain) can regain 28 (5d10) health.
+
+_(Operational)_ **Resist:** As a reactionary Operation, after being hit by an attack the Brute (Captain) can roll 1d12 and subtract the result from the damage taken.

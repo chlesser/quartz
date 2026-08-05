@@ -1,0 +1,3 @@
+### Shelter
+Cost: Secondary Operation, Tertiary Operation  
+Effect: When taking the Shelter maneuver, make a DC 50 Tactics interaction. On a success, you may treat any cover you are behind as 1 level higher for yourself only. Additionally this maneuver does not change the health of the cover. This effect is lost at the start of your next turn or when you move out of the cover you are sheltered behind.

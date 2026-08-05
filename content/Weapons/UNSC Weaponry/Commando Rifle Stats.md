@@ -1,0 +1,6 @@
+### Commando Rifle
+
+|                                                                                                       |                                                                                                                                                   |                       |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| **Core**                                                                                              | **Properties**                                                                                                                                    | **Special Abilities** |
+| **Dodge:** DC 60<br>**Damage:** 11 (3d6)<br>**Attacks:** 3<br>**Ammo Die:** 8d8<br>**Range:** 60 feet | **Size:** Medium<br>**Type:** Kinetic<br>**Dual-Wield:** No<br>**Precision Weapon:** Yes<br>**Called Shot Bonus:** +5<br>**Cover Negation:** Weak | N/A                   |

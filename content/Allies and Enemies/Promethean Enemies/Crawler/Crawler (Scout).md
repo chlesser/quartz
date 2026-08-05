@@ -1,0 +1,18 @@
+### Crawler Scout
+
+|                                                                                                                                                                    |                                                                                                                                    |                                                                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core**                                                                                                                                                           | **Offensive**                                                                                                                      | **Support**                                                                                                                                                                              |
+| **Race:** Promethean (Crawler)<br>**Classification:** Scout<br>**Health:** 30<br>**Shields:** N/A<br>**Dodge Bonus:** +10<br>**Size:** Small<br>**Speed:** 50 feet | **Melee Dodge DC:** 45<br>**Melee Damage:** 14 (4d6) Kinetic<br>**Grenades:** N/A<br>**Available Weaponry:** Boltshot, Light Rifle | **Superiorities (+10):** Agility, Detection<br>**Expertises (+20):** Stealth, Tracking<br>**Weapon Superiorities:** N/A<br>**Weapon Expertises:** N/A<br>**Effect Immunities:** Poisoned |
+| **Innate Skills**                                                                                                                                                  | **Passive Skills**                                                                                                                 | **Operational Skills**                                                                                                                                                                   |
+| *Promethean Vision<br>Headshot Susceptibility<br>Bite<br>Nimble*                                                                                                   | *Surprise Attack*                                                                                                                  | N/A                                                                                                                                                                                      |
+#### Skills
+*(Innate)* **Promethean Vision:** The Crawler (Scout) ignores penalties resulting from Darkness, and can see any creature within 60 feet that is not obscured by cover.
+
+*(Innate)* **Headshot Susceptibility:** Any headshot scored against the Crawler (Scout) deals +1 additional damage die.
+
+*(Innate)* **Bite:** As a Primary Operation, the Crawler (Scout) can make a bite attack against 1 creature within 5 feet with Dodge DC 40, dealing 20 (3d12) kinetic damage on a hit.
+
+*(Innate)* **Nimble:** The Crawler (Scout) can take the Dash maneuver using no Operations.
+
+*(Passive)* **Surprise Attack:** The Crawler (Scout) may make an additional weapon attack on creatures exposed to the Surprised effect.

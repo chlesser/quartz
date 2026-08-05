@@ -1,0 +1,17 @@
+## Brute
+
+![[Brute (Minor)]]
+![[Brute (Major)]]
+![[Brute (Ultra)]]
+![[Brute (Stalker)]]
+![[Brute (Jumper)]]
+![[Brute (Bodyguard)]]
+![[Brute (Honor Guard)]]
+![[Brute (Captain)]]
+![[Brute (Captain Major)]]
+![[Brute (Captain Ultra)]]
+![[Brute (Shipmaster)]]
+![[Brute (Army Commander)]]
+![[Brute (Cheiftan)]]
+![[Brute (War Chieftan)]]
+![[Brute (Chieftain of the Jiralhanae)]]

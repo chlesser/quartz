@@ -1,0 +1,3 @@
+## Gravemind
+![[Proto-Gravemind]]
+![[Gravemind]]

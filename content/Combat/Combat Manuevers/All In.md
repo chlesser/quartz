@@ -1,0 +1,3 @@
+### All In
+Cost: Primary Operation, Secondary Operation, Tertiary Operation, All Movement  
+Effect: When taking the All In maneuver, you expend all your movement speed towards 1 target and make all of your attacks at that 1 target. The Dodge DC of your attacks are increased by \+15, and all attacks that hit gain an extra damage die. If you reduce that creature’s health to 0, you may target another creature within range with all remaining attacks while still benefiting from these buffs.

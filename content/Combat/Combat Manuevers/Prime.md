@@ -1,0 +1,3 @@
+### Prime
+Cost: Primary Operation, Secondary Operation, Tertiary Operation (Optional), Grenade  
+Effect: When making the Prime maneuver, make DC 50 Demolition interaction. On a success you can throw a grenade and increase its radius by 5 feet. Additionally, you can choose 1 other Primary target of the grenade that is within 5 feet of the original Primary target. However, on a failure the grenade will explode in your hand unless you use a Tertiary Operation in addition to the Primary and Secondary Operations.

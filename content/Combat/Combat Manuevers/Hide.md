@@ -1,0 +1,3 @@
+### Hide
+Cost: Primary Operation  
+Effect: When taking the Hide maneuver, if you are within 5 feet of cover or anything you could reasonably hide behind or in, make a Stealth interaction. Any creatures that are aware of you must, on the beginning of their next turn, make a Detection interaction that equals or exceeds the result of your Stealth interaction. On a failure, you are successfully hidden from that creature and cannot be targeted by any attacks from them while in cover. This maneuver lasts until you leave cover or a creature succeeds their Detection interaction. This Detection Interaction can be remade at the beginning of each of the creature’s turns.
