@@ -1,0 +1,17 @@
+### Skirmisher (Murmillo)
+
+|                                                                                                                                                                        |                                                                                                                                          |                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core**                                                                                                                                                               | **Offensive**                                                                                                                            | **Support**                                                                                                                                                                        |
+| **Race:** Kig-Yar (Skirmisher)<br>**Classification:** Murmillo<br>**Health:** 45<br>**Shields:** N/A<br>**Dodge Bonus:** +15<br>**Size:** Medium<br>**Speed:** 35 feet | **Melee Dodge DC:** 50<br>**Melee Damage:** 14 (4d6) Kinetic<br>**Grenades:** N/A<br>**Available Weaponry:** Carbine Rifle, Plasma Rifle | **Superiorities (+15):** N/A<br>**Expertises (+30):** Agility<br>**Weapon Superiorities:** Carbine Rifle, Plasma Rifle<br>**Weapon Expertises:** N/A<br>**Effect Immunities:** N/A |
+| **Innate Skills**                                                                                                                                                      | **Passive Skills**                                                                                                                       | **Operational Skills**                                                                                                                                                             |
+| _Headshot Susceptibility_<br>_Quick_                                                                                                                                   | _Nightvision_<br>_Shielded_                                                                                                              | N/A                                                                                                                                                                                |
+
+#### Skills
+_(Innate)_ **Headshot Susceptibility:** Any headshot scored against the Skirmisher (Murmillo) deals +1 additional damage die.
+
+_(Innate)_ **Quick:** The Skirmisher (Murmillo) can take the Dash maneuver using only a Secondary and Tertiary Operation.
+
+_(Passive)_ **Nightvision:** The Skirmisher (Murmillo) ignores penalties resulting from Darkness.
+
+_(Passive)_ **Shielded:** The Skirmisher (Murmillo) has a +20 to all dodges from attackers that it can see that are no closer than 5 feet. If the attack would otherwise hit, it hits the shield. The shield has 45 shields.

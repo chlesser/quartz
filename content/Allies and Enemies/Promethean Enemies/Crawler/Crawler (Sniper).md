@@ -1,0 +1,18 @@
+### Crawler Sniper
+
+|                                                                                                                                                                     |                                                                                                                                                  |                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core**                                                                                                                                                            | **Offensive**                                                                                                                                    | **Support**                                                                                                                                                         |
+| **Race:** Promethean (Crawler)<br>**Classification:** Sniper<br>**Health:** 40<br>**Shields:** N/A<br>**Dodge Bonus:** +10<br>**Size:** Small<br>**Speed:** 40 feet | **Melee Dodge DC:** 45<br>**Melee Damage:** 14 (4d6) Kinetic<br>**Grenades:** N/A<br>A**vailable Weaponry:** Boltshot, Light Rifle, Binary Rifle | **Superiorities (+15):** Agility<br>**Expertises (+30):** Stealth<br>**Weapon Superiorities:** N/A<br>**Weapon Expertises:** N/A<br>**Effect Immunities:** Poisoned |
+| **Innate Skills**                                                                                                                                                   | **Passive Skills**                                                                                                                               | **Operational Skills**                                                                                                                                              |
+| *Promethean Vision*<br>*Headshot* *Susceptibility*<br>*Bite<br>Nimble*                                                                                              | *Wound*                                                                                                                                          | N/A                                                                                                                                                                 |
+#### Skills
+*(Innate)* **Promethean Vision:** The Crawler (Sniper) ignores penalties resulting from Darkness, and can see any creature within 60 feet that is not obscured by cover.
+
+*(Innate)* **Headshot Susceptibility:** Any headshot scored against the Crawler (Sniper) deals +1 additional damage die.
+
+*(Innate)* **Bite:** As a Primary Operation, the Crawler (Sniper) can make a bite attack against 1 creature within 5 feet with Dodge DC 40, dealing 20 (3d12) kinetic damage on a hit.
+
+*(Innate)* **Nimble:** The Crawler (Sniper) can take the Dash maneuver using no Operations.
+
+*(Passive)* **Wound:**** When a creature is hit by an attack from the Crawler (Sniper) and fails their dodge roll by 50 or more, they become exposed to the Wounded effect.

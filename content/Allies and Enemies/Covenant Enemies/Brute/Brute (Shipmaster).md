@@ -1,0 +1,27 @@
+### Brute (Shipmaster)
+
+|                                                                                                                                                                        |                                                                                                                                                   |                                                                                                                                                                                                                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core**                                                                                                                                                               | **Offensive**                                                                                                                                     | **Support**                                                                                                                                                                                                                                                     |
+| **Race:** Jiralhanae (Brute)<br>**Classification:** Shipmaster<br>**Health:** 140<br>**Shields:** 60<br>**Dodge Bonus:** +10<br>**Size:** Medium<br>**Speed:** 30 feet | **Melee Dodge DC:** 75<br>**Melee Damage:** 36 (8d8) Kinetic<br>**Grenades:** 4 (Stun)<br>**Available Weaponry:** Fuel Rod Cannon, Mauler, Spiker | **Superiorities (+25):** Firepower, Detection, History, Charisma<br>**Expertises (+50):** Fortitude, Lifting, Tactics, Handling<br>**Weapon Superiorities:** Fuel Rod Cannon, Mauler, Spiker<br>**Weapon Expertises:** N/A<br>**Effect Immunities:** Frightened |
+| **Innate Skills**                                                                                                                                                      | **Passive Skills**                                                                                                                                | **Operational Skills**                                                                                                                                                                                                                                          |
+| _Charge_<br>_Grab_<br>_Frenzy_                                                                                                                                         | _Alpha_<br>_Vicious_<br>_Flagship_<br>_Pilot_                                                                                                     | _Brutal Resilience_<br>_Resist_                                                                                                                                                                                                                                 |
+
+#### Skills
+_(Innate)_ **Charge:** As a Secondary and Tertiary Operations the Brute (Shipmaster) can move half of their movement speed (rounded down) and gain an additional +15 Dodge bonus against Chance Attacks.
+
+_(Innate)_ **Grab:** If the Brute (Shipmaster) hits a melee attack, they may immediately take the Grapple combat maneuver, expending only a Secondary and Tertiary Operation.
+
+_(Innate)_ **Frenzy:** When the Brute (Shipmaster) reaches 40 health or lower, they take only half damage (rounded down) from Kinetic, Hardlight, and Plasma damage, and their melee damage increases by +9 (2d8) damage die.
+
+_(Passive)_ **Alpha:** Whenever the Brute (Shipmaster) hits an attack they choose 1 ally and that ally deals +1 additional damage die on their next attack.
+
+_(Passive)_ **Vicious:** If the Brute (Shipmaster) deals more than 60 damage in a turn to a single target, that creature is exposed to the Wounded effect until they regain health in any way or complete a downtime.
+
+_(Passive)_ **Flagship:** Whenever the Brute (Shipmaster) is onboard a ship under their command they gain the following benefits: They are immune to the Surprised and Frightened effects. Creatures within sight of the Brute (Shipmaster) are immune to the Frightened effect.
+
+_(Passive)_ **Pilot:** Any vehicles piloted by the Brute (Shipmaster) gain the following benefits: Add +30 feet movement speed. Add +10 Dodge DC for any attacks made with the vehicle's weapons. The DC for Agility checks related to hijacking increases by 30. The vehicle’s health increases by an amount determined by the vehicle’s size: Small Vehicles: +40 health. Medium Vehicles: +80 health. Large Vehicles: +120 health. Massive Vehicles: +160 health.
+
+_(Operational)_ **Brutal Resilience:** Once, as a Primary, Secondary, and Tertiary Operation, the Brute (Shipmaster) can regain 33 (6d10) health.
+
+_(Operational)_ **Resist:** As a reactionary Operation, after being hit by an attack the Brute (Shipmaster) can roll 1d12 and subtract the result from the damage taken.

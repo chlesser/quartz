@@ -1,0 +1,26 @@
+# Turrets
+Turrets are similar to guns, and can save a desperate fireteam when in need. Turrets are larger projectile weapons that are mounted on a fixed base, but can be detached by a suitably strong combatant, such as a Spartan. They follow the same rules as other weapons, with a few unique traits listed below. 
+
+### Turret Name
+
+|                                                                                                                                                                                                                                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| **Core**                                                                                                                                                                                                                                                                                                                      | **Properties**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | **Special Abilities** |
+| **Dodge:** The Dodge DC of attacks made with the turret.<br><br>**Damage:** The amount of damage each turret deals.<br><br>**Attacks:** The number of attacks a turret may make each turn.<br><br>**Ammo Die:** The amount and type of ammo die the turret uses while not mounted.<br><br>**Range:** The range of the turret. | **Size:** The size of the turret.<br><br>**Type:** The damage type of a turret.<br><br>**Dual-Wield:** This indicates whether a gun can be dual wielded or not.<br><br>**Precision Weapon:** This indicates whether a turret is a precision weapon or not.<br><br>**Called Shot Bonus:** The turret’s bonus to called shots.<br><br>**Cover Negation:** The level of cover the turret can negate. This applies only to the damage die penalties and not the dodge bonuses granted to creatures behind cover. The damage die penalty increases by 1 for every level of cover beyond the level of cover the turret can negate. | _Ability_             |
+
+#### Special Abilities
+**Ability:** Any abilities the turret has that aren’t universal among all turrets.
+
+
+#### Mounted and Detached Turrets  
+Turrets have two modes; mounted and detached. A mounted turret refers to one that is stationary, while a detached turret refers to one that is actively being carried around by someone. As a Tertiary Operation you may start or stop using a turret that is mounted. While a turret is mounted, it does not consume ammo, and you may make an additional attack, but lose the ability to move and make combat maneuvers while operating the turret. Despite not being able to move a mounted turret, it can still fire in all directions. As a Secondary Operation, you may detach the turret, provided that you have the necessary gun slots. When a turret is detached it becomes portable, however the user loses 10 feet of movement speed and the ability to make the Dash, Evasion, and Scramble maneuvers.
+
+![[Chaingun Turret Stats]]
+
+![[Gauss Turret Stats]]
+
+![[Plasma Turret Stats]]
+
+![[Rocket Turret Stats]]
+
+![[Splinter Turret Stats]]

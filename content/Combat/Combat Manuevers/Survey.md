@@ -1,0 +1,3 @@
+### Survey
+Cost: Tertiary Operation  
+Effect: You survey the battlefield to try to find enemies, search for weak points in structures, and other such effects. Make a Detection interaction determined by the GM. While this maneuver is primarily Detection, it can be replaced with other interactions in certain cases, such as identifying what weapon an enemy is carrying with Firepower or what a piece of technology is with Tech.

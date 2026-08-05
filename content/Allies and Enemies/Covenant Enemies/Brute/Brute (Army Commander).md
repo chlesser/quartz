@@ -1,0 +1,29 @@
+### Brute (Army Commander)
+
+|                                                                                                                                                                            |                                                                                                                                                             |                                                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core**                                                                                                                                                                   | **Offensive**                                                                                                                                               | **Support**                                                                                                                                                                                                                                          |
+| **Race:** Jiralhanae (Brute)<br>**Classification:** Army Commander<br>**Health:** 160<br>**Shields:** 80<br>**Dodge Bonus:** +10<br>**Size:** Medium<br>**Speed:** 30 feet | **Melee Dodge DC:** 75<br>**Melee Damage:** 41 (9d8) Kinetic<br>**Grenades:** 4 (Incendiary)<br>**Available Weaponry:** Skewer, Brute shot, Ravager, Spiker | **Superiorities (+25):** Firepower, Detection, History, Charisma<br>**Expertises (+50):** Fortitude, Lifting, Tactics<br>**Weapon Superiorities:** Spiker, Brute Shot, Ravager<br>**Weapon Expertises:** Skewer<br>**Effect Immunities:** Frightened |
+| **Innate Skills**                                                                                                                                                          | **Passive Skills**                                                                                                                                          | **Operational Skills**                                                                                                                                                                                                                               |
+| _Charge_<br>_Grab_<br>_Frenzy_                                                                                                                                             | _Alpha_<br>_Vicious_<br>_Menacing_<br>_Unwavering Presence_                                                                                                 | _Brutal Resilience_<br>_Resist_<br>_Callout_                                                                                                                                                                                                         |
+
+#### Skills
+_(Innate)_ **Charge:** As a Secondary and Tertiary Operations the Brute (Army Commander) can move half of their movement speed (rounded down) and gain an additional +15 Dodge bonus against Chance Attacks.
+
+_(Innate)_ **Grab:** If the Brute (Army Commander) hits a melee attack, they may immediately take the Grapple combat maneuver, expending only a Secondary and Tertiary Operation.
+
+_(Innate)_ **Frenzy:** When the Brute (Army Commander) reaches 40 health or lower, they take only half damage (rounded down) from Kinetic, Hardlight, and Plasma damage, and their melee damage increases by +9 (2d8) damage die.
+
+_(Passive)_ **Alpha:** Whenever the Brute (Army Commander) hits an attack they choose 1 ally and that ally deals +1 additional damage die on their next attack.
+
+_(Passive)_ **Vicious:** If the Brute (Army Commander) deals more than 60 damage in a turn to a single target, that creature is exposed to the Wounded effect until they regain health in any way or complete a downtime.
+
+_(Passive)_ **Menacing:** Enemy creatures within 20 feet of the Brute (Army Commander) must make a DC 55 Fortitude interaction or be exposed to the Frightened effect. Each creature affected by this can remake the Fortitude interaction roll at the end of each turn. A creature that succeeds its interaction roll becomes immune to this effect for 24 hours.
+
+_(Passive)_ **Unwavering Presence:** Any allies that can see the Brute (Army Commander) are immune to the Frightened effect.
+
+_(Operational)_ **Brutal Resilience:** Once, as a Primary, Secondary, and Tertiary Operation, the Brute (Army Commander) can regain 33 (6d10) health.
+
+_(Operational)_ **Resist:** As a reactionary Operation, after being hit by an attack the Brute (Army Commander) can roll 7 (1d12) and subtract the result from the damage taken.
+
+_(Operational)_ **Callout:** Once per round, as a Secondary Operation, the Brute (Army Commander) may choose 1 ally that it can see within 60 feet. The next time that ally makes an attack, they may roll 11 (2d10) and increase the Dodge DC of their attack by the amount rolled on the die.

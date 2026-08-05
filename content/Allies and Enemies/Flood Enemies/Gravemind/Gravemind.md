@@ -1,0 +1,35 @@
+### Gravemind
+
+|                                                                                                                                                                 |                                                                                                                    |                                                                                                                                                                                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core**                                                                                                                                                        | **Offensive**                                                                                                      | **Support**                                                                                                                                                                                                                               |
+| **Race:** Flood<br>**Classification:** Gravemind Form<br>**Health:** 5000<br>**Shields:** N/A<br>**Dodge Bonus:** -20<br>**Size:** Massive<br>**Speed:** 0 feet | **Melee Dodge DC:** 90<br>**Melee Damage:** 98 (15d12) Kinetic<br>**Grenades:** N/A<br>**Available Weaponry:** N/A | **Superiorities (+30):** Tech, Firepower, Charisma, Detection, History<br>**Expertises (+60):** Fortitude, Lifting, Tactics<br>**Weapon Superiorities:** N/A<br>**Weapon Expertises:** N/A<br>**Effect Immunities:** Poisoned, Frightened |
+| **Innate Skills**                                                                                                                                               | **Passive Skills**                                                                                                 | **Operational Skills**                                                                                                                                                                                                                    |
+| _Enhanced Hive Mind_                                                                                                                                            | _Virus_<br>_Flammable_<br>_Hive Mind Nexus_<br>_Menacing_<br>_Miasma_<br>_Blindsight_<br>_Grasping Tendrils_       | _Biomass_<br>_Engulf_<br>_Poison_<br>_Empower_<br>_Disrupt_                                                                                                                                                                               |
+
+#### Skills
+_(Innate)_ **Enhanced Hive Mind:** The Dodge DC of the Gravemind’s attacks increase by +10 for each Flood creature within 15 feet of it, along with its Dodge Bonus and interactions that it has Superiority or Expertise in.
+
+_(Passive)_ **Virus:** When a target is hit by a melee attack from the Gravemind, they must make a DC 80 Fortitude interaction or be exposed to the Poisoned effect.
+
+_(Passive)_ **Flammable:** The Gravemind takes double damage from Thermal damage.
+
+_(Passive)_ **Hive Mind Nexus:** Any Flood creatures within 60 feet of the Gravemind gain an additional +30 bonus to their Dodge DCs, dodge Bonus, and movement speed, as well as regaining 3d10 health at the start of each of their turns.
+
+_(Passive)_ **Menacing:** Enemy creatures within 90 feet of the Gravemind must make a DC 100 Fortitude interaction or be exposed to the Frightened effect. Each creature affected by this can remake the Fortitude interaction roll at the end of each turn. A creature that succeeds its interaction roll becomes immune to this effect for 24 hours.
+
+_(Passive)_ **Miasma:** Non-Flood Creatures race who start their turn within 20 feet of the Gravemind are exposed to the Blinded effect for as long as they are within 20 feet of the Gravemind.
+
+_(Passive)_ **Blindsight:** The Gravemind can detect any creature within 90 feet of it without any interaction roll, regardless of an invisibility or any form of obscurity.
+
+_(Passive)_ **Grasping Tendrils:** When the Gravemind hits a melee attack against a creature, that creature must make a DC 90 Lifting interaction or be exposed to the Grappled effect. Creatures Grappled by the Gravemind have their speed reduced to 0 and are pulled up to 30 feet in the air where they remain until the Gravemind releases them, until the creature succeeds in a Lifting contest against the Gravemind as a Primary Operation(in which case they fall and are exposed to the Fallen effect), or until a called shot targeting the Gravemind’s tendril (treated as a called shot to an Arm) deals at least 60 damage of any type. The Gravemind may attempt to grapple vehicles as well as creatures in this way.
+
+_(Operational)_ **Biomass:** As a Secondary Operation, the Gravemind can create 11 (1d20) Infection Forms or 5 (1d8) Stalker Forms in an unoccupied space within 10 feet. Any creatures created in this way die when the Gravemind that created them dies.
+
+_(Operational)_ **Engulf:** As a Primary Operation, the Gravemind may make a melee attack against a creature exposed to the Grappled effect. On a hit, the target creature is engulfed into the innards of the Gravemind, taking 83 (15d10) Acid damage at the start of their turn. Additionally, the creature is exposed to the Blinded and Incapacitated effects as well as having their speed reduced to 0. Only one creature at a time can be engulfed in this way. If the Gravemind takes 75 or more damage from a single attack, they must make a DC 90 Fortitude interaction or spit out the engulfed creature anywhere within 10 feet, exposing it to the Fallen effect.
+
+_(Operational)_ **Poison:** As a Primary Operation, the Gravemind can pick a point within 50 feet, forcing all creatures within 10 feet to make a DC 80 Fortitude interaction or be exposed to the Poisoned effect. Any creatures already exposed to the Poisoned effect take an additional 44 (8d10) Acid damage.
+
+_(Operational)_ **Empower:** As a Primary Operation, the Gravemind can select 4 (1d6) Flood creatures it can see within 50 feet and expose them to the Indomitable effect until the end of their next turn.
+
+_(Operational)_ **Disrupt:** As a Primary Operation, the Gravemind can force all creatures within melee range to make a DC 80 Agility interaction or be exposed to the Fallen effect and take 22 (4d10) Kinetic damage.

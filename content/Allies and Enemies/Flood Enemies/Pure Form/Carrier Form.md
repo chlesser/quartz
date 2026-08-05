@@ -1,0 +1,17 @@
+### Carrier Form
+
+|                                                                                                                                                            |                                                                                                                 |                                                                                                                                                                        |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Core**                                                                                                                                                   | **Offensive**                                                                                                   | **Support**                                                                                                                                                            |
+| **Race:** Flood<br>**Classification:** Carrier Form<br>**Health:** 35<br>**Shields:** N/A<br>**Dodge Bonus:** +0<br>**Size:** Medium<br>**Speed:** 15 feet | **Melee Dodge DC:** 50<br>**Melee Damage:** 5 (2d4) Kinetic<br>**Grenades:** N/A<br>**Available Weaponry:** N/A | **Superiorities (+5):** N/A<br>**Expertises (+10):** N/A<br>**Weapon Superiorities:** N/A<br>**Weapon Expertises:** N/A<br>**Effect Immunities:** Poisoned, Frightened |
+| **Innate Skills**                                                                                                                                          | **Passive Skills**                                                                                              | **Operational Skills**                                                                                                                                                 |
+| _Hive Mind_                                                                                                                                                | _Virus_<br>_Flammable_                                                                                          | _Carrier_                                                                                                                                                              |
+
+#### Skills
+_(Innate)_ **Hive Mind:** The Dodge DC of the Carrier Form’s attacks increase by +5 for each Flood creature within 10 feet of it.
+
+_(Passive)_ **Virus:** When a target is hit by a melee attack from the Carrier Form, they must make a DC 50 Fortitude interaction or be exposed to the Poisoned effect.
+
+_(Passive)_ **Flammable:** Carrier Forms take double damage from Thermal damage.
+
+_(Operational)_ **Carrier:** As a Primary Operation, a Carrier Form can choose to burst open, killing itself and releasing 7 (2d6) Infection Forms in the nearest unoccupied spaces. Any creature within 5 feet must make a Dodge DC 65 or take 5d8 Explosive damage. This ability also triggers instantly when the Carrier Form reaches 0 health.
