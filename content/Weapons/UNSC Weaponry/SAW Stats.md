@@ -1,6 +1,0 @@
-### SAW (Squad Automatic Weapon)
-
-|                                                                                                       |                                                                                                                                                     |                       |
-| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| **Core**                                                                                              | **Properties**                                                                                                                                      | **Special Abilities** |
-| **Dodge:** DC 45<br>**Damage:** 7 (2d6)<br>**Attacks:** 4<br>**Ammo Die:** 4d20<br>**Range:** 25 feet | **Size:** Large<br>**Type:** Kinetic<br>**Dual-Wield:** No<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Average | N/A                   |

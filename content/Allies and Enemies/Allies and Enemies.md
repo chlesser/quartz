@@ -1,5 +1,0 @@
-![[Allies and Enemies Statistics]]
-![[z_Covenant Enemies]]
-![[z_Promethean Enemies]]
-![[Flood Enemies]]
-![[z_UNSC Allies]]
