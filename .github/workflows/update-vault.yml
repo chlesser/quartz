@@ -1,15 +1,21 @@
-name: Update vault submodule
+name: Update vault submodule and deploy
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # daily at 13:00 UTC — adjust as you like
-  workflow_dispatch:        # lets you trigger it manually from the Actions tab too
+    - cron: "0 13 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  update-submodule:
+  update-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -32,3 +38,24 @@ jobs:
             git commit -m "Auto-update vault submodule"
             git push
           fi
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Install Quartz plugins
+        run: npx quartz plugin install
+
+      - name: Build Quartz
+        run: npx quartz build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
