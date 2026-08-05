@@ -1,6 +1,0 @@
-### Sidekick Pistol
-
-|                                                                                                       |                                                                                                                                                     |                       |
-| ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| **Core**                                                                                              | **Properties**                                                                                                                                      | **Special Abilities** |
-| **Dodge:** DC 50<br>**Damage:** 7 (1d12)<br>**Attacks:** 3<br>**Ammo Die:** 6d4<br>**Range:** 55 feet | **Size:** Small<br>**Type:** Kinetic<br>**Dual-Wield:** Yes<br>**Precision Weapon:** Yes<br>**Called Shot Bonus:** +5<br>**Cover Negation:** Flimsy | N/A                   |

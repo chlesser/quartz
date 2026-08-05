@@ -1,6 +1,0 @@
-### Autosentry
-
-|                                                                                                                          |                                                                                                                                                   |                       |
-| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| **Core**                                                                                                                 | **Properties**                                                                                                                                    | **Special Abilities** |
-| **Health:** 50<br>**Dodge:** DC 65<br>**Damage:** 17 (3d10)<br>**Attacks:** 2<br>**Ammo Die:** N/A<br>**Range:** 30 feet | **Size:** N/A<br>**Type:** Kinetic<br>**Dual-Wield:** N/A<br>**Precision Weapon:** No<br>**Called Shot Bonus:** N/A<br>**Cover Negation:** Flimsy | N/A                   |
